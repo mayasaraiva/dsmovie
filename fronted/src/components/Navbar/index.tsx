@@ -1,7 +1,7 @@
 //index.tsx porque a linguagem do projeto é typescript, se não seria index.jsx
 //container é uma classe do boostrap vai delimitar a largura do conteudo
 import { ReactComponent as GithubIcon } from 'assets/img/github.svg';
-import './style.css';
+import './styles.css';
 
 function Navbar() {
     return (
